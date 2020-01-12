@@ -1,16 +1,15 @@
 ---
 templateKey: 'home-page'
-title: Gatsby Starter Business
+title: Lulu Developer
 meta_title: Home | Gatsby Starter Business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-heading: Lorem ipsum dolor sit amet
+heading: Hi werter Leser
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Ich bin Martin Mueller und lebe meinen Traum. Ich arbeite vom Home Office aus inder wunderschoenen Stadt Ludwigslust. Falls das auch was fuer dich waere, lies unbedingt weiter ;).
 offerings:
   blurbs:
     - image: /img/coffee.png
