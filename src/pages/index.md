@@ -2,6 +2,7 @@
 templateKey: 'home-page'
 title: Lulu Developer
 meta_title: Home | Lulu Developer
+image: /img/coffee.png
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam

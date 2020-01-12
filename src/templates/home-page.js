@@ -37,6 +37,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
+        image
         meta_title
         meta_description
         heading
