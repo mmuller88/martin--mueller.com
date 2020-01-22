@@ -10,7 +10,7 @@ meta_description: >-
   consectetur purus sit amet fermentum.
 heading: Hi werter Leser
 description: >-
-  Ich bin Martin Mueller und lebe meinen Traum. Ich arbeite vom Home Office aus inder wunderschoenen Stadt Ludwigslust. Falls das auch was fuer dich waere, lies unbedingt weiter ;).
+  Ich bin Martin Mueller und lebe meinen Traum. Ich arbeite vom Home Office aus in åder wunderschoenen Stadt Ludwigslust. Falls das auch was fuer dich waere, lies unbedingt weiter ;).
 offerings:
   blurbs:
     - image: /img/coffee.png

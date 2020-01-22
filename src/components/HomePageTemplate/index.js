@@ -3,18 +3,9 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
-import HompageStyles from "./index.module.css"
-import Hero from "../../../static/img/logo_home.png";
-
-const HeroStyle = {
-//   width: "1421px",
-//   height: "100vh",
-  backgroundImage: `url(${Hero})`
-};
 
 const HomePageTemplate = ({
   title,
-  image,
   heading,
   description,
   offerings,
@@ -27,18 +18,7 @@ const HomePageTemplate = ({
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
     </Helmet>
-    {/* <div key={image} className='column is-6' style={{ borderRadius: '5px' }}>
-      <section className='section'>
-        <p className='has-text-centered'>
-          <img alt='' src={image} />
-        </p>
-        <p>{title}</p>
-      </section>
-    </div> */}
-    <section className='hero is-primary is-bold is-medium' style={HeroStyle}>
-        {/* <p className='has-text-centered'>
-          <img alt='' src={image} />
-        </p> */}
+    <section className='hero is-primary is-bold is-medium'>
       <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
