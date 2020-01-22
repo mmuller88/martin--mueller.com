@@ -73,7 +73,7 @@ module.exports = {
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
         enableIdentityWidget: true,
-        htmlTitle: `Lulu Developer Content Manager`,
+        htmlTitle: `h-o.dev Content Manager`,
       },
     },
     {

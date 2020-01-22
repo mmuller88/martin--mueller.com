@@ -63,7 +63,7 @@ To personalize and configure this Starter open `config.js` file and replace the 
 
 ```javascript
 module.exports = {
-  siteTitle: 'Lulu Developer', // Site title.
+  siteTitle: 'h-o.dev', // Site title.
   siteTitleAlt: 'Business', // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png', // Logo used for SEO and manifest.
   siteUrl: 'https://gatsby-starter-business.netlify.com', // Domain of your website without pathPrefix.
@@ -78,7 +78,7 @@ module.exports = {
   userTwitter: 'vaibhaved',
   userLocation: 'Delhi NCR, India',
   userDescription: '',
-  copyright: 'Copyright © Lulu Developer 20202918. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
+  copyright: 'Copyright © h-o.dev 20202918. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff', // Used for setting manifest background color.
 }

@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: About Us
-meta_title: About Us | Lulu Developer
+meta_title: About Us | h-o.dev
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam

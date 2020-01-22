@@ -11,6 +11,7 @@ const HomePage = ({ data }) => {
     <Layout>
       <HomePageTemplate
         title={frontmatter.title}
+        image={frontmatter.image}
         meta_title={frontmatter.meta_title}
         meta_description={frontmatter.meta_description}
         heading={frontmatter.heading}

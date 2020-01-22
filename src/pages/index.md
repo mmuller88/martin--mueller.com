@@ -1,8 +1,8 @@
 ---
 templateKey: 'home-page'
-title: Lulu Developer
-meta_title: Home | Lulu Developer
-image: /img/coffee.png
+title: Hallo Hodev :)
+meta_title: Home | h-o.dev
+image: /img/logo_home.png
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
@@ -15,53 +15,28 @@ offerings:
   blurbs:
     - image: /img/coffee.png
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut, 
-        scelerisque eu sem. Etiam porttitor elit eget mi luctus, vitae blandit enim pretium. 
-        Aenean nec hendrerit leo, a bibendum magna. In hac habitasse platea dictumst. 
-        Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam 
-        sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi. 
-        Nullam et dui interdum, varius nibh eu, efficitur metus.
+        Was ist ein Hodev? 
+        Hodev steht kurz fuer Home Office Developer. Es sind also Leute die von zu Hause aus arbeiten.  
+        Was ist ein Developer? 
+        Im herkoemmlichen Sinne beschreibt Developer eine Person welche sich aktiv weiterentwickelt. Das heisst man ist wissbegirieg, aufgeschlossen und umarmt Veraenderungen, denn nur die Veraenderung ist die Einzige Konstante. Als kleinen Auszug aus meinem Leben. Meine Reise der Weiterentwicklung startete ungefaehr mit 18 also ich mich entschlossen hatte mein starkes Uebergewichtsproblem in den Angriff zu nehmen. Innerhalb eines Jahres reduzierte ich mein Gewicht von ca. 180kg auf 110kg . Auch entwickelte ich eine Leidenschaft fuer den Kraftsport. Mit 19 began ich dann mein Informatikstudium in Rostock, welche meine Begeisterung fuer die Softwareentwicklung weckte. Nach dem Studium erweiterte sich diese als ich ein Praktikum und nachfolgende Arbeitsverhaeltniss in London began. 
     - image: /img/coffee-gear.png
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
-        ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
-        neque id mauris accumsan, nec imperdiet justo eleifend. Nulla viverra, ipsum 
-        sit amet interdum pharetra, felis lorem sollicitudin felis, vehicula finibus 
-        enim nunc facilisis sapien. Donec nulla nisi, dictum quis nibh et, euismod 
-        semper eros. Praesent nunc tortor, consequat eu justo ac, dictum viverra enim. 
-        Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel 
-        vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
+        Und Software Developer? 
+        Ist ein Developer der sich im Bereich Software weiterentwickelt. Das wirklich alles im Bereich Software sein. Ein paar Beispiele waeren Java Entwickler, Cloud Architect oder App Programmierer.
     - image: /img/tutorials.png
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
-        pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu 
-        pharetra orci, ut malesuada nisl. Aliquam erat volutpat. Curabitur egestas eros tincidunt, 
-        scelerisque lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla. Aliquam 
-        erat volutpat. Vivamus ultrices venenatis maximus. Donec volutpat vitae quam at fringilla. 
-        Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum 
-        non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula, 
-        quam augue pretium erat, at commodo nisl tellus non risus.
+        Bist du bereit dich weiterzuentwickeln dann schau doch bei meinen kostenlosen Veranstaltungen vorbei. Bei Interesse bitte Bescheid sagen:
+        Ludwigslust Happy Bootcamp: www.meetup.com/LuluHB
+        Um den Koerper fit zu halten treffen wir uns jeden Samstag und Sonntag um 9 Uhr bei dem Jugend- und Freizeitpark an der Stadthalle in Ludwigslust. Sofern du einen Koerper besitzt, erfuellst du alle Vorraussetzungen um am Meetup teilzunehmen. Falls du lust hast komm vorbei,aber bitte vergiss die Flasche Wasser nicht ;).
+        Ludwigslust Developer: www.meetup.com/LuluDev
+        Ludwigslust Developer ist ein Meetup fuer Softwareenwickler oder welche die es gerne werden moechten zum gegenseitigen Austausch im Softwarebereich. Ich selber besitze ein breitgefaechtertes Wissen heutiger Fontend- und Backendtechnologien und bin gerne bereit ueber diese zu sprechen. Um nur ein paar zu nennen: Java, Spring, REST API, Docker, Kubernetes, Tomcat, AWS, Cloud, SQL, Jenkins, Kafka, Kotlin, JavaScript, Angular, React, Gatsby.
+        Ludwigslust AWS User Group: www.meetup.com/LuluAWSug
+        Interessiert du dich auch fuer die AWS Cloud oder moechtest gerne mehr wissen was das ist? Wenn ja lets connect. Ich selber bin zertifizierter AWS Cloud Architekt und brenne fuer diese Technologie. Es sind keine Vorrausetzungen benoetigt fuer diesen Kurs.
     - image: /img/meeting-space.png
       text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
-        sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
-        venenatis molestie ut mi. Duis vel libero ac lectus cursus tempus. Nullam in dictum felis. 
-        Nam sed laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac scelerisque nisi 
-        sodales. Cras tristique laoreet tempor. Mauris vitae dolor eu mauris malesuada cursus. 
-        Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus. Suspendisse potenti. 
-        In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
-        risus.
+        Blog. www.martinmueller.dev
 testimonials:
-  - author: Vaibhav Sharma
+  - author: Kenia Mueller
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed diam luctus pretium. 
-      Sed quis egestas libero. Vestibulum nec venenatis ligula. 
-  - author: Subarashi San
-    quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et dignissim ligula. 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Alles tutti frutti. 
 ---
